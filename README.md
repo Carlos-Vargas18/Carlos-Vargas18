@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Carlos-Vargas18/Carlos-Vargas18/blob/main/Perfil%20profesional%20de%20Carlos%20Vargas.png?raw=true" />
+  <img src="" />
 </p>
 
 <h1 align="center" style="color:#D4AF37;">Carlos Vargas</h1>
