@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Carlos Vargas</h1>
+<h3 align="center">Frontend Developer</h3>
 
-<!--
-**Carlos-Vargas18/Carlos-Vargas18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Java+%7C+JavaScript;Building+cool+projects..." />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on Java projects
+- 🌱 I’m learning JavaScript & Frontend
+- 💬 Ask me about Java & GUI
+- ⚡ Fun fact: I like to listen to music my programs
+
+---
+
+### 🛠️ Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Vargas18&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact
+- 📧 yourgmail@gmail.com
+- 📱 Instagram: @tu_usuario
+
