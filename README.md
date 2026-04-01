@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/REEMPLAZAR.png" />
+  <img src="https://github.com/Carlos-Vargas18/Carlos-Vargas18/blob/main/Perfil%20profesional%20de%20Carlos%20Vargas.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center" style="color:#D4AF37;">Carlos Vargas</h1>
@@ -26,7 +26,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A3D62&title_color=D4AF37&text_color=F9F9F9&icon_color=D4AF37" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
