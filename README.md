@@ -1,39 +1,38 @@
-<h1 align="center">Hi 👋, I'm Carlos Vargas</h1>
-<h3 align="center">Frontend Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Java+%7C+JavaScript;Building+cool+projects..." />
+  <img src="https://i.imgur.com/REEMPLAZAR.png" />
+</p>
+
+<h1 align="center" style="color:#D4AF37;">Carlos Vargas</h1>
+<h3 align="center" style="color:#F9F9F9;">Frontend Developer</h3>
+
+---
+
+## 🧠 About Me
+<p style="color:#F9F9F9;">
+💻 Passionate about Java & GUI<br>
+🚀 Currently learning Frontend<br>
+🎯 Focused on building real projects<br>
+🎧 I like coding while listening to music
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on Java projects
-- 🌱 I’m learning JavaScript & Frontend
-- 💬 Ask me about Java & GUI
-- ⚡ Fun fact: I like to listen to music my programs
-
----
-
-### 🛠️ Technologies
-<p>
+## 🛠️ Technologies
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Vargas18&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A3D62&title_color=D4AF37&text_color=F9F9F9&icon_color=D4AF37" />
 </p>
 
 ---
 
-### 📫 Contact
-- 📧 yourgmail@gmail.com
-- 📱 Instagram: @tu_usuario
-
+## 📫 Contact
+<p style="color:#F9F9F9;">
+📧 hernandezdigital.web@gmail.com<br>
+📱 Instagram: @carlinhoss.xpf
+</p>
