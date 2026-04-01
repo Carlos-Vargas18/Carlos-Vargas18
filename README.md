@@ -26,7 +26,11 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A3D62&title_color=D4AF37&text_color=F9F9F9&icon_color=D4AF37" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Vargas18&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=F9F9F9&icon_color=D4AF37" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Vargas18&theme=dark&background=0A3D62&ring=D4AF37&fire=D4AF37&currStreakLabel=F9F9F9&sideLabels=F9F9F9" />
 </p>
 
 ---
